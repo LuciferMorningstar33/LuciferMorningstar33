@@ -13,7 +13,9 @@ LuciferMorningstar33/LuciferMorningstar33 is a ✨ special ✨ repository becaus
 You can click the Preview link to take a look at your changes.
 --->
 
-
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/LuciferMorningstar33/LuciferMorningstar33/main/name.svg" alt="Prithvi More" />
+</h1>
 <h1 align="center">Hi 👋, I'm Prithvi More</h1>
 <h3 align="center">Software Developer with experience in leading agile teams and enhancing application stability through thorough code reviews. Successfully reduced application response times by implementing performance optimizations and designed scalable architectures for business growth. Eager to leverage technical expertise and innovative solutions to contribute to software development projects.</h3>
 
